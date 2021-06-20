@@ -6,3 +6,5 @@ def tester(start):
         print(label,state)
         state+=1
     return nested
+
+map.__annotations__
